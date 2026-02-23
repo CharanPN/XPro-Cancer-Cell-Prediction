@@ -15,7 +15,7 @@ The system includes:
 - Performance evaluation
 - Prediction system
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
